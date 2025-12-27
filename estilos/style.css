@@ -143,7 +143,7 @@ div.imgtrabalha2 {
 
 img.trabalha2 {
     width: 600px;
-    height: 80px;
+    height: 110px;
 }
 
 div.fotos {
@@ -184,6 +184,11 @@ p.casa {
 }
 
 div.imgcasa {
-    width: 35vw;
+    width: 650px;
     margin: auto;
+}
+
+img.casa {
+    width: 650px;
+    height: 450px;
 }
